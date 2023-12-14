@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Disallow: /studio
+
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.zenta.tech
+
+# Sitemaps
+Sitemap: https://www.zenta.tech/sitemap.xml
+Sitemap: https://www.zenta.tech/sitemap-0.xml

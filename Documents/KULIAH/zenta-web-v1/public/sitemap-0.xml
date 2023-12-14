@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://www.zenta.tech/about</loc><lastmod>2023-12-14T07:37:10.123Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.zenta.tech</loc><lastmod>2023-12-14T07:37:10.123Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.zenta.tech/post/math-operations-in-python-a-beginner-s-guide-or-chapter-1</loc><lastmod>2023-12-14T07:37:10.123Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.zenta.tech/post/understanding-python-variables-and-data-types-or-chapter-1</loc><lastmod>2023-12-14T07:37:10.123Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.zenta.tech/post/python-recursion-a-comprehensive-guide-for-beginners-or-chapter-2</loc><lastmod>2023-12-14T07:37:10.123Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.zenta.tech/post/the-fundamentals-of-object-oriented-programming-in-python</loc><lastmod>2023-12-14T07:37:10.123Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.zenta.tech/post/python-file-i-o-reading-and-writing-to-files-made-easy-or-chapter-2</loc><lastmod>2023-12-14T07:37:10.123Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.zenta.tech/post/chapter-1-or-python-for-beginners-a-step-by-step-guide-to-installing-and-running-python</loc><lastmod>2023-12-14T07:37:10.123Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.zenta.tech/post/python-loops-a-beginner-s-guide-to-for-and-while-loops-or-chapter-2</loc><lastmod>2023-12-14T07:37:10.123Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.zenta.tech/post/creating-functions-in-python-everything-you-need-to-know-or-chapter-2</loc><lastmod>2023-12-14T07:37:10.123Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.zenta.tech/post/python-conditionals-an-in-depth-guide-to-if-else-statements-or-chapter-2</loc><lastmod>2023-12-14T07:37:10.123Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.zenta.tech/post/how-to-create-classes-and-objects-in-python-a-beginner-s-guide</loc><lastmod>2023-12-14T07:37:10.123Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.zenta.tech/post/mastering-python-comments-tips-and-tricks-or-chapter-1</loc><lastmod>2023-12-14T07:37:10.123Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.zenta.tech/post/your-first-python-program-creating-a-simple-calculator-or-chapter-1</loc><lastmod>2023-12-14T07:37:10.123Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>

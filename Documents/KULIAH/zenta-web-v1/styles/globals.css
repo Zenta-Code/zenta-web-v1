@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply dark:bg-[#202124] bg-[#e1e6eb]
+  }
+}
+
+@font-face {
+  font-family: 'Cubano';
+  font-style: bold;
+  font-weight: 600;
+  src: local(''), url('../public/fonts/Cubano.ttf') format('woff');
+  font-display: swap;
+
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('../public/fonts/SofiaProRegular.ttf') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  font-style: semibold;
+  font-weight: 500;
+  src: local(''), url('../public/fonts/SofiaProSemiBold.ttf') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  font-style: bold;
+  font-weight: 600;
+  src: local(''), url('../public/fonts/SofiaProBold.ttf') format('woff');
+  font-display: swap;
+}
